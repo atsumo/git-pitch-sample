@@ -6,3 +6,18 @@ https://gitpitch.com/
 
 #3
 https://gitpitch.com/atsumo/git-pitch-sample/master
+
+
+Hello!
+
++++
+
+Hola!
+
+---
+
+Goodbye!
+
++++
+
+Adiós!
